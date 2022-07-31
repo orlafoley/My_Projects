@@ -1,2 +1,2 @@
 # My_Projects
-Just for Fun
+A number of projects created independently during my time in college.
